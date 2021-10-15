@@ -1,0 +1,38 @@
+_repo: Le-Merveilleux-voyage-de-Nils-Holgersson-a-travers-la-Suede_66480
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Maury, Lucien
+    gutenberg_agent_id: '53832'
+    url: http://www.gutenberg.org/2009/agents/53832
+  translator:
+    agent_name: Hammar
+    gutenberg_agent_id: '53831'
+    url: http://www.gutenberg.org/2009/agents/53831
+creator:
+  author:
+    agent_name: Lagerlöf, Selma
+    aliases:
+    - Lagerlof, Selma
+    - Lagerlöf, Selma Ottiliana Lovisa
+    - Lagerloef, Selma
+    birthdate: 1858
+    deathdate: 1940
+    gutenberg_agent_id: '1717'
+    url: http://www.gutenberg.org/2009/agents/1717
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Selma_Lagerlöf
+    - https://fi.wikipedia.org/wiki/Selma_Lagerl%C3%B6f
+    - https://sv.wikipedia.org/wiki/Selma_Lagerl%C3%B6f
+description: ''
+gutenberg_issued: '2021-10-06'
+identifiers:
+  gutenberg: '66480'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Le Merveilleux voyage de Nils Holgersson à travers la Suède
+url: http://www.gutenberg.org/ebooks/66480
