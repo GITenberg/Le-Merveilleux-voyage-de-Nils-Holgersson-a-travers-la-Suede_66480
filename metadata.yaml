@@ -9,6 +9,9 @@ contributor:
     agent_name: Hammar
     gutenberg_agent_id: '53831'
     url: http://www.gutenberg.org/2009/agents/53831
+covers:
+- cover_type: archival
+  image_path: 66480-h/images/cover.jpg
 creator:
   author:
     agent_name: Lagerlöf, Selma
@@ -25,6 +28,8 @@ creator:
     - https://fi.wikipedia.org/wiki/Selma_Lagerl%C3%B6f
     - https://sv.wikipedia.org/wiki/Selma_Lagerl%C3%B6f
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66480#Le-Merveilleux-voyage-de-Nils-Holgersson-a-travers-la-Suede
 gutenberg_issued: '2021-10-06'
 identifiers:
   gutenberg: '66480'
